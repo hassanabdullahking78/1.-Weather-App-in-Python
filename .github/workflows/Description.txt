@@ -1,0 +1,1 @@
+ This is a command-line based weather application that fetches and displays the current weather of any city using the OpenWeatherMap API.
