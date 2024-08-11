@@ -1,0 +1,2 @@
+Replace "your_api_key_here" with your actual API key from OpenWeatherMap.
+Run the program and enter any city name to get the current weather information.
